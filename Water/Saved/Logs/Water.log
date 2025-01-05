@@ -1420,3 +1420,6 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.01.05-18.23.25:035][893]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
 [2025.01.05-18.23.35:212][802]LogContentBrowser: Attempting asset rename: NewFolder -> Ocean
 [2025.01.05-18.23.35:212][802]LogContentBrowser: End creating deferred item NewFolder
+[2025.01.05-18.24.36:958][251]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 345.870575
+[2025.01.05-18.24.37:958][254]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.05-18.24.37:958][254]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 346.537323, Update Interval: 328.526855
