@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "k:\\water\\water\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\water\\permoduleinline.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "k:\\water\\water\\intermediate\\build\\win64\\x64\\watereditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "k:\\water\\water\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\water\\definitions.water.h",
+            "c:\\ue_5.5\\engine\\source\\runtime\\core\\public\\hal\\permoduleinline.inl"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

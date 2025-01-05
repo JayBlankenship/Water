@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Water.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Water.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\WaterEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Water">
+      <UniqueIdentifier>{D634E7B8-BFE9-39BD-980B-C27A5C8403BB}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Water\Water.Build.cs">
+      <Filter>Source\Water</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Water\Water.cpp">
+      <Filter>Source\Water</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Water\Water.h">
+      <Filter>Source\Water</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

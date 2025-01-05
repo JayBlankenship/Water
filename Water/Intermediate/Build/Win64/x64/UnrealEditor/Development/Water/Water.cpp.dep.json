@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "k:\\water\\water\\source\\water\\water.cpp",
+        "ProvidedModule": "",
+        "PCH": "k:\\water\\water\\intermediate\\build\\win64\\x64\\watereditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "k:\\water\\water\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\water\\definitions.water.h",
+            "k:\\water\\water\\source\\water\\water.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

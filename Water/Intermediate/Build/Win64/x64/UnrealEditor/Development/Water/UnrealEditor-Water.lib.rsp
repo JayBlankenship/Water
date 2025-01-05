@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-Water.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"K:\Water\Water\Intermediate\Build\Win64\x64\WaterEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"K:\Water\Water\Intermediate\Build\Win64\x64\UnrealEditor\Development\Water\Water.cpp.obj"
+"K:\Water\Water\Intermediate\Build\Win64\x64\UnrealEditor\Development\Water\PerModuleInline.gen.cpp.obj"
+"K:\Water\Water\Intermediate\Build\Win64\x64\UnrealEditor\Development\Water\Default.rc2.res"
+/OUT:"K:\Water\Water\Intermediate\Build\Win64\x64\UnrealEditor\Development\Water\UnrealEditor-Water.lib"

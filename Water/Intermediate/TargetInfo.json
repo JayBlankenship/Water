@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Water",
+			"Path": "..\\Source\\Water.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "WaterEditor",
+			"Path": "..\\Source\\WaterEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
