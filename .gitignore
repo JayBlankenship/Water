@@ -6,10 +6,18 @@
 /[Bb]uilds
 /Binaries
 /DerivedDataCache
-
+Water/Binaries/*
+Water/DerivedDataCache/*
+Water/Saved/*
+Water/Intermediate/*
 /Intermediate
 /Saved
 \Saved
+
+# Add this to ignore water.log specifically
+Water/Saved/Logs/Water.log
+# Or to ignore all .log files in that directory
+Water/Saved/Logs/*.log
 #################################
 # Visual Studio Generated Files #
 #################################
