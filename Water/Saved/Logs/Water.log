@@ -1368,3 +1368,10 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.01.05-18.15.00:530][ 10]LogEOSSDK: LogEOS: SDK Config Product Update Request Successful, Time: 9.237134
 [2025.01.05-18.15.00:532][ 10]LogEOSSDK: LogEOS: SDK Config Data - Watermark: 758315952
 [2025.01.05-18.15.00:532][ 10]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9.237134, Update Interval: 353.550842
+[2025.01.05-18.15.01:542][ 14]LogEOSSDK: LogEOSAuth: UpdateUserAuthToken: User ClientId: xyz...459 AccountId: 2b6...188 Access[Expires: 2025.01.05-20.15.02 Remaining: 7200.80] Refresh[Expires: 2025-07-04T17:43:42.383Z Remaining: 15550120.38] State: Valid
+[2025.01.05-18.15.01:876][ 15]LogEOSSDK: LogEOSAuth: UserAuthGenerated: Received FUserAuthToken
+[2025.01.05-18.15.02:872][ 18]LogEOSSDK: LogEOSAuth: UserAuthGenerated: Login complete: EOS_Success
+[2025.01.05-18.15.02:872][ 18]LogFab: Display: User logged in
+[2025.01.05-18.15.02:872][ 18]LogFab: Display: User client id: xyza7891REBVsEqSJRRNXmlS7EQHM459
+[2025.01.05-18.15.03:542][ 20]LogEOSSDK: Warning: LogEOS: Error response received from backend. ServiceName=[Friend], OperationName=[GetBlockList], Url=[<Redacted>], HttpStatus=[403], ErrorCode=[errors.com.epicgames.common.insufficient_scopes], NumericErrorCode=[1056], ErrorMessage=[Insufficient access scopes. Expected: [friends_list]], CorrId=[EOS-koOqpL6zhEOKC3Bv8MEzrg-ONLmtUjPLkug6BvNDIz8DQ]
+[2025.01.05-18.16.47:044][331]LogDerivedDataCache: C:/Users/jaybl/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 1 empty folders. Scanned 0 files in 2 folders with total size 0 MiB.
