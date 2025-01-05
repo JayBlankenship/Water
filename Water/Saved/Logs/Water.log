@@ -1423,3 +1423,10 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.01.05-18.24.36:958][251]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 345.870575
 [2025.01.05-18.24.37:958][254]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.01.05-18.24.37:958][254]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 346.537323, Update Interval: 328.526855
+[2025.01.05-18.25.09:857][773]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=AORUS FV43U (NVIDIA High Definition Audio), InstanceID=1
+[2025.01.05-18.25.10:177][773]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.01.05-18.25.10:177][773]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=1030508
+[2025.01.05-18.25.10:509][774]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.01.05-18.25.10:511][774]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{ea01c9c2-6d31-4055-9c8d-327ad6647450}, Name=AORUS FV43U (NVIDIA High Definition Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=12.53
+[2025.01.05-18.25.10:512][774]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.01.05-18.25.10:513][774]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
